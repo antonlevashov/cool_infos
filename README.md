@@ -9,5 +9,13 @@ https://github.com/rasbt/python-machine-learning-book
 # 5 python tutorials
 - https://pythontips.com/2016/08/19/interesting-python-tutorials/
 
-Hadoop fundamentals
+# Hadoop fundamentals
 - https://github.com/bbengfort/hadoop-fundamentals
+
+# A Complete Guide on Getting Started with Deep Learning in Python
+- https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/
+
+
+# Fast Forward Labs is a machine intelligence research company. 
+- http://blog.fastforwardlabs.com/ 
+
