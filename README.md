@@ -3,8 +3,9 @@ Some cool staff
 
 https://github.com/rasbt/python-machine-learning-book
 
-# Nice portfolio
+# Nice blog / portfolio
 - http://minimaxir.com/portfolio/
+- http://toddwschneider.com/ (awesome data charts)
 
 # 5 python tutorials
 - https://pythontips.com/2016/08/19/interesting-python-tutorials/
@@ -18,4 +19,11 @@ https://github.com/rasbt/python-machine-learning-book
 
 # Fast Forward Labs is a machine intelligence research company. 
 - http://blog.fastforwardlabs.com/ 
+
+# Scalable Data Science
+- https://raazesh-sainudiin.gitbooks.io/scalable-data-science/content/ 
+
+
+# stock_market_prediction
+- https://github.com/wzchen/stock_market_prediction
 
