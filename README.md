@@ -8,3 +8,6 @@ https://github.com/rasbt/python-machine-learning-book
 
 # 5 python tutorials
 - https://pythontips.com/2016/08/19/interesting-python-tutorials/
+
+Hadoop fundamentals
+- https://github.com/bbengfort/hadoop-fundamentals
