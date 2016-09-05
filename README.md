@@ -27,3 +27,5 @@ https://github.com/rasbt/python-machine-learning-book
 # stock_market_prediction
 - https://github.com/wzchen/stock_market_prediction
 
+# Handy Python Libraries for Formatting and Cleaning Data
+- https://blog.modeanalytics.com/python-data-cleaning-libraries/
