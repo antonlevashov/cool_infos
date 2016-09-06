@@ -6,6 +6,7 @@ https://github.com/rasbt/python-machine-learning-book
 # Nice blog / portfolio
 - http://minimaxir.com/portfolio/
 - http://toddwschneider.com/ (awesome data charts)
+- http://fastml.com/
 
 # 5 python tutorials
 - https://pythontips.com/2016/08/19/interesting-python-tutorials/
