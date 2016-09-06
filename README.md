@@ -3,11 +3,12 @@ Some cool staff
 
 https://github.com/rasbt/python-machine-learning-book
 
-# Nice blog / portfolio
+# Nice blog / portfolio 
 - http://minimaxir.com/portfolio/
 - http://toddwschneider.com/ (awesome data charts)
 - http://fastml.com/
 - http://partiallyderivative.com/
+- http://www.kdnuggets.com/2015/10/best-blogs-analytics-big-data-science-machine-learning.html (almost 90 active blogs)
 
 # 5 python tutorials
 - https://pythontips.com/2016/08/19/interesting-python-tutorials/
