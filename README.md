@@ -32,3 +32,6 @@ https://github.com/rasbt/python-machine-learning-book
 
 # Handy Python Libraries for Formatting and Cleaning Data
 - https://blog.modeanalytics.com/python-data-cleaning-libraries/
+
+# Spark Resources
+- https://github.com/spark-mooc 
