@@ -35,3 +35,4 @@ https://github.com/rasbt/python-machine-learning-book
 
 # Spark Resources
 - https://github.com/spark-mooc 
+- http://www.sparktutorials.net/tutorials
