@@ -23,9 +23,6 @@ https://github.com/rasbt/python-machine-learning-book
 # Fast Forward Labs is a machine intelligence research company. 
 - http://blog.fastforwardlabs.com/ 
 
-# SPARK resources
-Scalable Data Science
-- https://raazesh-sainudiin.gitbooks.io/scalable-data-science/content/ 
 
 
 # stock_market_prediction
@@ -37,3 +34,5 @@ Scalable Data Science
 # Spark Resources
 - https://github.com/spark-mooc 
 - http://www.sparktutorials.net/tutorials
+Scalable Data Science
+- https://raazesh-sainudiin.gitbooks.io/scalable-data-science/content/ 
