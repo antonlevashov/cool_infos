@@ -34,5 +34,6 @@ https://github.com/rasbt/python-machine-learning-book
 # Spark Resources
 - https://github.com/spark-mooc 
 - http://www.sparktutorials.net/tutorials
-## Scalable Data Science
+
+Scalable Data Science
 - https://raazesh-sainudiin.gitbooks.io/scalable-data-science/content/ 
