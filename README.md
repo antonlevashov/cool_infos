@@ -37,3 +37,7 @@ https://github.com/rasbt/python-machine-learning-book
 
 Scalable Data Science
 - https://raazesh-sainudiin.gitbooks.io/scalable-data-science/content/ 
+
+# ML Courses
+CS224d: Deep Learning for Natural Language Processing
+- http://cs224d.stanford.edu/syllabus.html
