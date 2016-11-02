@@ -28,8 +28,10 @@ https://github.com/rasbt/python-machine-learning-book
 # stock_market_prediction
 - https://github.com/wzchen/stock_market_prediction
 
-# Handy Python Libraries for Formatting and Cleaning Data
-- https://blog.modeanalytics.com/python-data-cleaning-libraries/
+# Python Resources
+- Cleaning data - https://blog.modeanalytics.com/python-data-cleaning-libraries/ 
+- Awesome python dataviz - https://github.com/fasouto/awesome-dataviz 
+- A curated list of awesome Python frameworks, libraries, software and resources. - https://github.com/vinta/awesome-python
 
 # Spark Resources
 - https://github.com/spark-mooc 
